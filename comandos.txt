@@ -1,2 +1,3 @@
-Comandos:        Descripción:                               Ejemplo de uso:
-git --version	 Muestra la versión instalada de Git	    git --version
+Comandos:        Descripción:                                       Ejemplo de uso:
+git --version	 Muestra la versión instalada de Git	             git --version
+git init	     Inicializa un repositorio en la carpeta actual	     git init
