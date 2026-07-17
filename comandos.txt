@@ -1,0 +1,2 @@
+Comandos:        Descripción:                               Ejemplo de uso:
+git --version	 Muestra la versión instalada de Git	    git --version
